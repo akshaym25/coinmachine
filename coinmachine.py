@@ -1,7 +1,7 @@
 item_cost = [24,35,31]
 item_names = ['A','B','C']
 input_coins = 0
-total_coins = 41
+total_coins = 12
 quarter = 25
 nickel = 5
 dime = 10
